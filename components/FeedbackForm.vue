@@ -17,8 +17,6 @@
       <input id="name" type="text" name="name" />
       <label for="email">Email</label>
       <input id="email" type="email" name="email" required />
-      <label for="feedback">What is your feedback?</label>
-      <textarea id="feedback" wrap="soft" name="feedback" required></textarea>
       <button type="submit">Submit</button>
     </form>
   </div>
